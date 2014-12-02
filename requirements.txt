@@ -1,0 +1,6 @@
+flask
+Flask-MySQL
+flask-mail
+flask-security 
+Flask-SQLAlchemy
+Flask-WTF
